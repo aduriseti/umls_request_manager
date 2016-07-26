@@ -78,7 +78,7 @@ import copy
 def pretty_print(data):
 	print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
 
-DEFAULT_CACHE = "umls_cache.shelve"
+DEFAULT_CACHE = "umls_cache"
 MAX_LENGTH = 1000000
 
 pageSize = 400

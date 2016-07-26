@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='umls_request_manager',
-	version='0.7',
+	version='0.8',
 	description='Authenticates, caches, and pipelines requests to the UMLS REST metathesaurus API',
 	url='http://github.com/aduriseti/umls_request_manager',
 	author='Amal Duriseti',
